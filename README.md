@@ -1,7 +1,3 @@
-User Churn Prediction Using Snapshot Windows and Ensemble Models
-Final Report, Sparkify Dataset
-Authors: Jing Du, Louan Bardou
-
 Project Overview: 
 
 This project addresses the problem of user churn prediction for a music streaming service using historical interaction logs. The primary objective is not only to achieve good predictive performance, but to design a model that generalizes reliably despite strong structural biases in the data.
